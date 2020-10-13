@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 body{
-    background-image: url("../img/sale.jpg");
+    background-image: url("../img/sale.jpg"); /* Credit Claudio Schwarz for the beautiful picture*/
     display: flex;
     font-family: 'Roboto', sans-serif;
     flex-direction: column;
