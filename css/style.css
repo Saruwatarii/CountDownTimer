@@ -18,6 +18,7 @@ body{
 .count-timer {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 h1 {

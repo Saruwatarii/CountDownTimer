@@ -25,7 +25,7 @@ const secondsEl = document.getElementById("secs");
     const seconds = Math.floor(totalSeconds % 60)
 
     //Attach the time to the webpage
-    daysEl.innerHTML = timeFormat(days);
+    daysEl.innerHTML = days;
     hoursEl.innerHTML = timeFormat(hours);
     minutesEl.innerHTML = timeFormat(minutes);
     secondsEl.innerHTML = timeFormat(seconds);
