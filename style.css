@@ -1,0 +1,38 @@
+
+
+body{
+    background-image: url("https://images.unsplash.com/photo-1531303435785-3853ba035cda?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
+    display: flex;
+
+    flex-direction: column;
+    align-items: center; /* center it horizontal with dislpay:flex.*/
+  /*  justify-content: center; if you also want it to be vertically centered as well */
+    /* When adding the counter, can position it in the center */
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    margin: 0;
+}
+
+.count-timer {
+    display: flex;
+}
+
+h1 {
+    font-size: 4rem;
+    margin-top: 4rem;
+}
+
+.p-text {
+    font-size: 6rem;
+    line-height: 1;
+    margin: 0 2rem;
+}
+
+.countdown-el {
+    text-align: center;
+}
+
+.countdown-el span {
+    font-size: 1.3rem;
+}
