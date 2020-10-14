@@ -1,14 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 body{
-    background-image: url("../img/sale.jpg"); /* Credit Claudio Schwarz for the beautiful picture*/
+    /* Credit to Sincerely Media for the christmas theme picture */
+  /*  background-image: url("../img/sale.jpg");  Credit Claudio Schwarz for the beautiful picture*/
     display: flex;
     font-family: 'Roboto', sans-serif;
     flex-direction: column;
     align-items: center; /* center it horizontal with dislpay:flex.*/
   /*  justify-content: center; if you also want it to be vertically centered as well */
     /* When adding the counter, can position it in the center */
-    min-height: 100vh;
+   /* min-height: 100vh; */
     background-size: cover;
     background-position: center center;
     margin: 0;
@@ -19,6 +20,14 @@ body{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+}
+
+img {
+    position: fixed;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
 }
 
 h1 {
