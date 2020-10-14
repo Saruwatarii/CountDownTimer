@@ -1,5 +1,5 @@
 # CountDownTimer
-Countdown for the black Friday sale in Norway.
+Countdown for the black Friday sale in Norway and the countdown to Christmas Eve.
 
 **Screenshot from the Black Friday Countdown timer:**
 ![CountDown Timer to Black Friday](https://github.com/Saruwatarii/CountDownTimer/blob/main/img/bfTimer.jpg)
