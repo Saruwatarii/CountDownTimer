@@ -1,6 +1,6 @@
 
 // The  date we wanna countdown to
-const blackFridayDatee = "27 nov 2020";
+const blackFridayDatee = "27 nov 2021";
 const christmasEveDatee = "24 dec 2020";
 
 
