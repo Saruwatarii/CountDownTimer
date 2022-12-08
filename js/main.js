@@ -1,7 +1,7 @@
 
 // The  date we wanna countdown to
-const blackFridayDatee = "27 nov 2021";
-const christmasEveDatee = "24 dec 2020";
+const blackFridayDatee = "24 nov 2023";
+const christmasEveDatee = "24 dec 2022";
 
 
 // get the element from the webpage that has the specified id timer value. (Default 0 on the html file)
